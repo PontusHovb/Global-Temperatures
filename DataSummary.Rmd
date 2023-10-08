@@ -1,0 +1,6 @@
+
+
+```{r}
+data_globaltemp <- read.csv("GlobalTemperatures.csv")
+data_globaltemp
+```
