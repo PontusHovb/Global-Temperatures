@@ -2,5 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-.DataSummary.html
-data/
+.DS_Store
+/Data
