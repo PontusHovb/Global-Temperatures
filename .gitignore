@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+GlobalTemperatures.Rproj
 .DS_Store
-/Data
+README.html
